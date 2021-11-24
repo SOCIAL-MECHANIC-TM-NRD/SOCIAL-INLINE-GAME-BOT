@@ -1,4 +1,7 @@
-# Inline Games [![Build Status](https://travis-ci.org/jacklul/inlinegamesbot.svg?branch=master)](https://travis-ci.org/jacklul/inlinegamesbot) [![License](https://img.shields.io/github/license/jacklul/inlinegamesbot.svg)](https://github.com/jacklul/inlinegamesbot/blob/master/LICENSE) [![Telegram](https://img.shields.io/badge/Telegram-%40inlinegamesbot-blue.svg)](https://telegram.me/inlinegamesbot)
+# SOCIAL INLINE GAME BOT
+<IMG src="https://telegra.ph/file/b89ae19627f5395468182.png">
+
+[![Build Status](https://travis-ci.org/jacklul/inlinegamesbot.svg?branch=master)](https://travis-ci.org/jacklul/inlinegamesbot) [![License](https://img.shields.io/github/license/jacklul/inlinegamesbot.svg)](https://github.com/jacklul/inlinegamesbot/blob/master/LICENSE) [![Telegram](https://img.shields.io/badge/Telegram-%40inlinegamesbot-blue.svg)](https://telegram.me/SOCIAL_GAME_BOT)
 
 A Telegram bot that provides real-time multiplayer games that can be played in any chat.
 
@@ -7,18 +10,18 @@ You can see the bot in action by messaging [@inlinegamesbot](https://telegram.me
 #### Currently available games:
 
 - Tic-Tac-Toe
-- Tic-Tac-Four ([@DO97](https://github.com/DO97))
-- Elephant XO ([@DO97](https://github.com/DO97))
+- Tic-Tac-Four ([SOCIAL MECHANIC](https://github.com/SOCIAL-MECHANIC-NRD))
+- Elephant XO ([SOCIAL MECHANIC](https://github.com/SOCIAL-MECHANIC-NRD))
 - Connect Four
 - Rock-Paper-Scissors
-- Rock-Paper-Scissors-Lizard-Spock ([@DO97](https://github.com/DO97))
+- Rock-Paper-Scissors-Lizard-Spock ([SOCIAL MECHANIC](https://github.com/SOCIAL-MECHANIC-NRD))
 - Russian Roulette
 - Checkers
 - Pool Checkers
 
 ## Deploying
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jacklul/inlinegamesbot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SOCIAL-MECHANIC-NRD/SOCIAL-INLINE-GAME-BOT)
 
 Assuming everything was entered correctly the deploy process should run the following commands automatically and your bot should be instantly working:
 - `php bin/console install` - install database schema
