@@ -5,7 +5,7 @@
 
 A Telegram bot that provides real-time multiplayer games that can be played in any chat.
 
-You can see the bot in action by messaging [@inlinegamesbot](https://telegram.me/inlinegamesbot).
+ [BOT-SUPPORT](https://telegram.me/Technology_corner).
 
 #### Currently available games:
 
