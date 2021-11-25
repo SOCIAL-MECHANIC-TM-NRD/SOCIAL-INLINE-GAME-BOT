@@ -25,7 +25,7 @@ A Telegram bot that provides real-time multiplayer games that can be played in a
 
 ## Deploying
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SOCIAL-MECHANIC-NRD/SOCIAL-INLINE-GAME-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SOCIAL-MECHANIC-TM-NRD/SOCIAL-INLINE-GAME-BOT)
 
 Assuming everything was entered correctly the deploy process should run the following commands automatically and your bot should be instantly working:
 - `php bin/console install` - install database schema
