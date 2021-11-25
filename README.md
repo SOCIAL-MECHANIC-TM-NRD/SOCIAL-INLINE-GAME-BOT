@@ -21,7 +21,7 @@ A Telegram bot that provides real-time multiplayer games that can be played in a
 
 
 ### Support & Updates 🎑
-<a href="https://t.me/tamil_chat_group_1"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/technology_corner"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/tamil_chat_group_1"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/TECHNOLGY_CORNER"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 ## Deploying
 
