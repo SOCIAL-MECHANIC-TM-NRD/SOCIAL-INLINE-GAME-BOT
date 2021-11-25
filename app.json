@@ -1,7 +1,7 @@
 {
   "name": "SOCIAL-INLINE-GAME-BOT",
   "description": "A Telegram bot providing games that can be played in any chat.",
-  "repository": "https://github.com/SOCIAL-MECHANIC-NRD/SOCIAL-INLINE-GAME-BOT",
+  "repository": "https://github.com/SOCIAL-MECHANIC-TM-NRD/SOCIAL-INLINE-GAME-BOT",
   "logo": "https://telegra.ph/file/b89ae19627f5395468182.png",
   "buildpacks": [
     {
